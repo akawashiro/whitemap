@@ -1,0 +1,5 @@
+This software makes your trails map from kml data file.
+
+Usage:
+Put your kml files in "kml" directory.
+Run whitemap.sh
