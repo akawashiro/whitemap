@@ -1,4 +1,4 @@
-#whitemap
+# whitemap
 This software makes your trails map from kml data files.
 
 ## Usage 
